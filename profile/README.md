@@ -16,5 +16,5 @@ The Profit Platform for Shopify. Connected apps and AI-powered insights to help 
 
 ### Resources
 
-- [Terraform](https://app.terraform.io/app/AMPeCommerce/workspaces) — IaC (Hashicorp Terraform)
-- [AWS](https://ampecommerce.awsapps.com/start#/) — Console access via SSO
+- [Terraform](https://app.terraform.io/app/TheCommerceCo/workspaces) — IaC (Hashicorp Terraform)
+- [AWS](https://thecommerceco.awsapps.com/start#/) — Console access via SSO
