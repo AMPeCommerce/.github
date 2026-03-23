@@ -1,17 +1,20 @@
-## Hi there 👋
+## Amp
 
-The Commerce Co's communal organization for all cross business unit functionality.
+The Profit Platform for Shopify. Connected apps and AI-powered insights to help merchants find, grow, and protect profit.
 
-## Services
+**[useamp.com](https://useamp.com)**
 
-### Terraform
-We are using Hasicorp Terraform to manage our IaC.
-@SarahTCC can grant access.
-https://app.terraform.io/app/TheCommerceCo/workspaces
+### Products
 
-### AWS
-AWS for the whole group can be accessed via https://thecommerceco.awsapps.com/start#/
+| App | What it does |
+|---|---|
+| **[Lifetimely](https://useamp.com/products/analytics)** | P&L, LTV, CAC, attribution, and AI-powered profit analytics |
+| **[Slide Cart](https://useamp.com/products/slide-cart)** | Customizable slide cart to increase conversions and AOV |
+| **[Bundles](https://useamp.com/products/bundles)** | Product bundles, promos, and discounts |
+| **[Back in Stock](https://useamp.com/products/back-in-stock)** | Restock alerts and pre-orders for sold-out products |
+| **[Amp AI](https://useamp.com/products/amp-ai)** | Automated profit recommendations across the platform |
 
-### SumoLogic
-Logs for central tooling & security goes to the tcc-central sumologic account:
-https://tcc-central.sumologic.com/
+### Resources
+
+- [Terraform](https://app.terraform.io/app/AMPeCommerce/workspaces) — IaC (Hashicorp Terraform)
+- [AWS](https://ampecommerce.awsapps.com/start#/) — Console access via SSO

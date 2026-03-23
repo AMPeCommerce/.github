@@ -1,2 +1,3 @@
-# The Commerce Co
-Config repo for TCC organization GitHub
+# Amp
+
+Organisation config repo for [Amp](https://useamp.com) on GitHub.
